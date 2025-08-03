@@ -1,0 +1,7 @@
+nodejs
+npm
+express
+mongoose
+cors
+body-parser
+multer
